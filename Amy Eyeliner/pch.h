@@ -10,5 +10,8 @@
 // add headers that you want to pre-compile here
 #include "framework.h"
 #include "SADXModLoader.h"
+#include "ModelInfo.h"
+#include "IniFile.hpp"
+#include "Trampoline.h"
 
 #endif //PCH_H

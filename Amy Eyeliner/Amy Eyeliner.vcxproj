@@ -156,6 +156,10 @@
     <ClInclude Include="DCAmy.h" />
     <ClInclude Include="DXAmy.h" />
     <ClInclude Include="framework.h" />
+    <ClInclude Include="KidnappedDCclassic.h" />
+    <ClInclude Include="KidnappedDCmodern.h" />
+    <ClInclude Include="KidnappedDXclassic.h" />
+    <ClInclude Include="KidnappedDXmodern.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>

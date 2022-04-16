@@ -27,6 +27,18 @@
     <ClInclude Include="DXAmy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="KidnappedDCclassic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KidnappedDXclassic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KidnappedDCmodern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="KidnappedDXmodern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="dllmain.cpp">
